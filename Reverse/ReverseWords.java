@@ -1,3 +1,5 @@
+package Reverse;
+
 public class ReverseWords {
     public static void main(String[] args){
         String str = "Hello world how are you";

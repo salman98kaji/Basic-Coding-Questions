@@ -1,3 +1,5 @@
+package Reverse;
+
 public class ReverseEachWord {
     public static void main(String[] args){
         String str = "Hello world salman";

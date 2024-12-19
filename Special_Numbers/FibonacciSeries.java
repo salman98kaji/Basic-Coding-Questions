@@ -1,3 +1,5 @@
+package Special_Numbers;
+
 import java.util.Scanner;
 
 public class FibonacciSeries {
@@ -28,3 +30,6 @@ public class FibonacciSeries {
         }
     }
 }
+
+//A sequence where each number is the sum of the two preceding ones, starting from 0 and 1.
+//eg; 0,1,1,2,3,5,8,13,....
