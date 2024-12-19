@@ -26,3 +26,6 @@ public class PerfectNumber {
         return sum == num;
     }
 }
+
+// A perfect number is a positive integer that is equal to the sum of its proper divisors (excluding itself).
+//For example, 6 is perfect square. its factors 1,2,3 when added gives 6.
