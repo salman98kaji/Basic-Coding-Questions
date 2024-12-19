@@ -28,4 +28,4 @@ public class HarshadNumber {
     }
 }
 
-//Harshad number is a number or an integer in base 10 which is completely divisible by sum of  its digits.
+// Harshad number is a number or an integer in base 10 which is completely divisible by sum of  its digits.
