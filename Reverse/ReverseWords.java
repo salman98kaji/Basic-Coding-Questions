@@ -10,7 +10,7 @@ public class ReverseWords {
             reversed.append(words[i]).append(" ");
         }
 
-        System.out.println("reversed words :"+reversed.toString().trim());
+        System.out.println("reversed words: "+reversed.toString().trim());
     }
 
 }

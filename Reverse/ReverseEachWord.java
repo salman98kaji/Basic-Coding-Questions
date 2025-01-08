@@ -11,5 +11,4 @@ public class ReverseEachWord {
         }
         System.out.println("Reversed Each Word: " + reversed.toString().trim());
     }
-
 }

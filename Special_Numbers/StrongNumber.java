@@ -1,6 +1,8 @@
 package Special_Numbers;
 
 import java.util.Scanner;
+//a positive integer where the sum of the factorials of its digits is equal to the number itself.
+//For example, 145  is a strong number because 1! + 4! + 5! = 1 + 24 + 120 = 145.
 
 public class StrongNumber {
     public static void main(String[] args){
